@@ -1,16 +1,15 @@
 High-Security Login Notice 
 
-Jo IP/internet se AC booking ho chuki ho, usko dobara use na karein.
+Jo IP/internet se AC booking ho chuki ho usko dobara use na karein
 
-Token generate karne se pehle apna data clear karein, aur ensure karein ki token software me dikh raha hai.
+Token generate karne se pehle apna data clear karein aur ensure karein ki token software me dikh raha hai
 
 Token Time: 07:30 / 09:30 / 10:30
 
 Pair Login: 07:52 / 09:52 / 10:52
 
-Agar app login fail ho jaye to web se try karein, sabhi gateways working hain — BHIM NPCI & BHIM SBI fix kar diye gaye hain.
-Web login feature bhi available hai.
-
-Important:
-	•	Web login ko test na karein, warna booking time me ID block ho sakti hai.
-	•	Jab tak “Wait for PG” message na aaye, dubara web login na karein
+Agar app login fail ho jaye to web se try karein sabhi gateways working hain BHIM NPCI & BHIM SBI fix kar diye gaye hain
+Web login feature bhi available hai
+Important
+Web login ko test na karein, warna booking time me ID block ho sakti hai
+Jab tak Wait for PG message na aaye dubara web login na karein
