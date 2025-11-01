@@ -1,14 +1,16 @@
-Software Ka Updater Run Kr ke Aap file update kr lijiye and weblogin used kr sakte he web login me bhimupi and phonepe hi working getway he
-and 1 slot pr 1 APP Login Krye And 2web But updater run krne ke bad chalega and system me googlecrome hona jaruri he
-
-Ye issue aaj fix kar diya jayega
-
-Apne mobile se purana token generator app uninstall kar dijiye aur naya version install kijiye — purana app ab kaam nahi karega
-GADAR use karne se pehle PC/VPS format kar lo Nahi to purane Tesla Pro files ya koi aur software hang karwa sakta hai
-High-Security Login Notice 
-Jo IP/internet se AC booking ho chuki ho usko dobara use na karein
-Token generate karne se pehle apna data clear karein aur ensure karein ki token software me dikh raha hai
-
-Token Time: 07:30 / 09:30 / 10:30
-Pair Login: 07:52 / 09:52 / 10:52
-Agar app login fail ho jaye to sabhi gateways working hain BHIM NPCI & BHIM SBI fix kar diye gaye hain
+Pehle Task Manager kholo aur chromedriver.exe ko End Task kar doUske baad jis folder mein aapka main exe file hai jo aap chalate ho 
+wahan jaao Wahan se chromedriver exe ko delete kar do
+Ab dobara web login karke check karo — sahi chalna chahiye.Ek hi home IP par 1 web login aur 1 APP par login hona chahiye.
+Agar web side payment stop karega to ussi connection ka connection lost ho jayega isliye payment process theek se chalna zaroori hai
+Web login mein sirf BHIM UPI aur PhonePe UPI hi updated hai
+Agar aapka form login na ho to turant Slot 2 se login kijiye.
+Ek hi IP par ek se zyada form ek saath login mat kijiye 1web and 1 app
+Web ya app par zyada testing mat kijiye excessive requests se IP block ho sakta hai aur booking ruk sakti hai
+Token booking time se 20 30 minute pehle bana lijiye booking time par token ko GET karna hai
+Booking start hone se 10 minute pehle login process shuru kijiye
+Web login sequential hona chahiye pehla login poora ho tabhi doosra start karein
+Updater ko run kar dijiye, manual update se file properly update ho jaayegi.
+Aaj ke baad aapka file update automatically aur smoothly hoga update se related issue fix kar diya gaya hai
+Update complete hone ke baad hi web login aur baaki sab updates aapko milenge
+Please ensure updater ko ek baar zaroor run karein
+Kripya in instructions ko follow karein taaki booking aur connection related problems na aayein
