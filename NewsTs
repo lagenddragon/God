@@ -1,21 +1,16 @@
 Priya User
 
+Booking prakriya ko tez banane ke naye nirdesh
+
+Tez aur safal booking sunishchit karne ke liye ab users ko salah di gayi hai ki ve subah 7 baje se 11 baje ke beech lagataar apne token bhejein.
+Sutron ke anusaar, pratyek form ke liye kam se kam 10 token bhejna behtar mana ja raha hai, taaki booking confirm hone ki sambhavana badh sake.
+
+Adhikaarion ne yah bhi kaha ki agar user har booking prayaas se pehle app ka data clear karke aur network restart karke dobara login karein, to system behtar tarike se kaam karta hai.
+Saath hi, users ko yah salah di gayi hai ki ve message aur nirdeshon ko dhyaan se padhein — kyunki aisa karne waalon ki booking safalta dar zyada dekhi gayi hai.
+
+Team ka maana hai ki sahi samay aur sahi tareeke se token bhejne par booking prakriya tez aur saral ho sakti hai.
+
 Freecharge Bypass Update Done
-
-Ab har 1 form ke liye kam se kam 3 token generate kiye jayenge
-
-Aap apne alag-alag mobile se sensor data bhej sakte hain, jisse aapko zyada booking karne ka mauka milega
-
-Agar aap ek se adhik form lagate hain, to har form ke hisaab se 3-3 token judege
-Udaharan:
-1 Form = 3 Token
-2 Form = 6 Token
-3 Form = 9 Token aadi
-
-Mahatvapurn
-Naye token lene se pehle kripya apne purane token clear karen
-Isse system me purane token hat jayenge aur aapki booking process tez aur behatar ho jayegi
-
-Pehle purane token clear karen fir naye token get karen aur daily booking ke pahle apko ye step fallow krna he
+BhimSbiupi Bypass Update done
 
 Aap 7:35 / 09:35 / 10:35 tak token generate kar lein
