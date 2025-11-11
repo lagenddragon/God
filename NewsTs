@@ -1,14 +1,8 @@
 WARNING  IRCTC ne security tight kar diya hai
-Login fail ya submit fail aata hai iska best solution yeh hai
+ 1 Login Jo kr rhe he uska 10 token bejye kisi time beje token bs hmesa token new irctc id se bejye 
+and token software me bs booking time get krye normal time me nhi  jada token hoga jada chance hoga
 
-1 ticket ke liye kam se kam 8–10 token generate karo
-Jitna zyada token utna chance badh jayega
-
-Token create karne se pehle app ka data clear karo phir IRCTC ID change karke token banao
-Aadhar-unverified ID se bhi token generate kar sakte ho
-
-Mumkin ho to alag alag internet use karo alag IP
-Agar har baar alag net available nahi to phone ko flight mode me daal do 10 sec baad on karo phir token bhejo
+and token server pr bejne ke bad apk ka data clear kr lijiye fir net off krye 30second ke liye fir on kr kr token bnaey
 
 BHIM SBI PAY bypass FIX
 FREECHARGE bypass FIX
