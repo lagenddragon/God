@@ -1,10 +1,11 @@
-WARNING  IRCTC ne security tight kar diya hai
- 1 Login Jo kr rhe he uska 10 token bejye kisi time beje token bs hmesa token new irctc id se bejye 
+WEB LOGIN ka issue fix kar diya gaya hai Ab WEB LOGIN error free sirf home IP par chalega
+Aap maximum windows web login kar sakte hai Agar aap ek ticket ek app se login kar rahe ho
+to ek pair web login bhi kar sakte hai Aur jab web login ek baar ho jaaye aur wait for booking open ho
+tab dusra web login karo
+Abhi web me 2 payment gateways working hain Bhim UPI aur PhonePe aur naye gateways jaldi update kiye jayenge
+
+
+ 1 APP Login Jo kr rhe he uska 10 token bejye kisi time beje token bs hmesa token new irctc id se bejye 
 and token software me bs booking time get krye normal time me nhi  jada token hoga jada chance hoga
-
 and token server pr bejne ke bad apk ka data clear kr lijiye fir net off krye 30second ke liye fir on kr kr token bnaey
-
-BHIM SBI PAY bypass FIX
-FREECHARGE bypass FIX
-
 Simple aur dhyaan se follow karo zyada token  zyada success chance
