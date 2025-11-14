@@ -1,17 +1,9 @@
+Sawal Kya token sirf booking time par hi generate kar sakte hai?
 
-IRCTC ka new rule aaya hai pehle passenger submit hone me 35 second lagta tha ab 45 second lagega
-booking thodi late hogi Ye niyam general aur tatkal dono booking par lagu hoga
+Answer Nahi
 
-Google Chrome install hona chahiye bina uske aapka web login kaam nahi karega
+Aap kabhi bhi token generate kar sakte hain chahe subah shaam ya din bhar me
+Aap apne mobile se dost ke mobile se ya kisi bhi mobile se token bana kar apni key par send kar sakte hain
 
-WEB LOGIN ka issue fix kar diya gaya hai Ab WEB LOGIN error free sirf home IP par chalega
-Aap maximum windows web login kar sakte hai Agar aap ek ticket ek app se login kar rahe ho
-to ek pair web login bhi kar sakte hai Aur jab web login ek baar ho jaaye aur wait for booking open ho
-tab dusra web login karo
-Abhi web me 2 payment gateways working hain Bhim UPI aur PhonePe aur naye gateways jaldi update kiye jayenge
-
-
- 1 APP Login Jo kr rhe he uska 10 token bejye kisi time beje token bs hmesa token new irctc id se bejye 
-and token software me bs booking time get krye normal time me nhi  jada token hoga jada chance hoga
-and token server pr bejne ke bad apk ka data clear kr lijiye fir net off krye 30second ke liye fir on kr kr token bnaey
-Simple aur dhyaan se follow karo zyada token  zyada success chance
+Bas booking time 9:30 aur 10:30 par aapko 4 se 5 token aur generate karke bhejna hota hai
+Baki tokens aap ek din pehle ya jab bhi free ho tab generate karke send kar sakte hain
