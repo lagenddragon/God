@@ -1,9 +1,4 @@
-phonepe getway not worling he app me wo getway ofline he abhi jo phonepe me chal rha he app me
-
-BHIM UPI PhonePe Update Done On App Login
-
-BHIM UPI, PhonePe, HDFC UPI, Razorpay UPI, OTOPAY, Cashfree UPI, Fast UPI aur naye gateway
-sabhi app login aur PhonePe/BHIM UPI update safaltaapoorvak pura ho gaya hai
-Halaanki iPay mein abhi bhi samasya bani hui hai. Lagbhag 60% response mil raha hai aur 40% issue abhi bhi pending hai
-
-QR Payment Bhi sbse fast working he
+QR gateway zyada use karein kyunki usme aapka Scan & Pay rahega jisse baar-baar request bhejne ka jhanjhat nahi hoga
+Filhaal bank ki taraf se server issue chal raha hai isi wajah se aapki requests aa nahi rahi hain aur isi wajah se Freecharge ya koi bhi gateway bypass nahi ho pa raha hai
+Aap manual UPI bhi de dein, tab bhi request receive nahi ho rahi hai
+QR use karne ka fayda yeh hai ki QR turant generate ho jata hai aap bas scan karke payment karenge aur aapka payment successfully complete ho jayega
