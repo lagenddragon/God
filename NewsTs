@@ -1,31 +1,16 @@
-The new update has introduced some important guidelines
-
 Token Generation
 
-Make sure to generate the token 1 hour before booking
+Booking se 1 ghanta pehle token zaroor generate karein Booking time par 40 par dobara token generate karein
 
-During the booking time generate the token again at 40
+Internet Ka Upyog
 
-Internet Usage
+Jis network se aap token generate karte hain, ussi network ka upyog booking ke liye na karein
 
-Do not use the same network for booking that you used to generate the token
-
-For AC booking, use a separate mobile/network
-
-For SL booking, use a different mobile/network
-
-This will significantly improve your booking success rate
+AC booking ke liye alag mobile/network ka upyog karein SL booking ke liye bhi alag mobile/network ka istemaal karein Isse aapki booking success rate kaafi badh jaayegi
 
 Testing Mode
+Filhaal testing allow ki gayi hai, isliye iska upyog zaroor karein
 
-Testing has been allowed for now so please make use of it
-
-Proxy Usage
-
-The proxy-enabled APK is currently working and will be shifted to Server 2.
-
-You can download it in the morning and start using it.
-
-You may use either a resident proxy or your own custom proxy.
-
-Resident proxy is recommended because it keeps changing your IP continuously, giving better performance.
+Proxy Ka Upyog
+Proxy wala APK abhi sahi se chal raha hai aur ise Server 2 par shift kiya ja raha hai Aap ise subah download karke use kar sakte hain
+Aap resident proxy ya apna custom proxy, dono me se koi bhi use kar sakte hain Resident proxy behtar rahega kyunki isse aapka IP lagatar change hota rahta hai, aur performance improved hoti hai.
