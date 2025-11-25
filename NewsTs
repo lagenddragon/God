@@ -1,14 +1,31 @@
-ALL getway Working Fine today  
-QR Getway And Upi Getway working fine 100%
+The new update has introduced some important guidelines
 
-Token Agar Genrate hone me isu aa rha he to web login kre 
-1 ip pr 2 web login kre 1 app kre agar old token kam kiya to app se kam ho jaeyga nhi to web login he hi 
+Token Generation
 
-but iske liye aaj ke din jo irctc id nhi used kiye he wo used kryega and ip jo aaj nhi used kiye he wo ip used kryega 
-and mobile net jo used kiye he wo net na used kr ke dusre mobile ka net used kryega
+Make sure to generate the token 1 hour before booking
 
-ite step ko fallow krege tb jakr apka ticket 100% bnega 
+During the booking time generate the token again at 40
 
-and nhi fallow krege to apka bnega ki nhi ye apke upar he
+Internet Usage
 
+Do not use the same network for booking that you used to generate the token
 
+For AC booking, use a separate mobile/network
+
+For SL booking, use a different mobile/network
+
+This will significantly improve your booking success rate
+
+Testing Mode
+
+Testing has been allowed for now so please make use of it
+
+Proxy Usage
+
+The proxy-enabled APK is currently working and will be shifted to Server 2.
+
+You can download it in the morning and start using it.
+
+You may use either a resident proxy or your own custom proxy.
+
+Resident proxy is recommended because it keeps changing your IP continuously, giving better performance.
