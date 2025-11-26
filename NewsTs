@@ -1,18 +1,11 @@
-IRCTC Ka Security Tite He 1 Irctc id ek bar 24hr me login huha hoga to thik he isse jada krege to block ho jaeyga aap token genrate hmesa new id se krye booking me jo id login ho jaey usko dubara used na krye and id and ip dono har login me new hona chahiye nhi to apka block isu aeyga
+Web2 Update done 
 
-Token Generation
+PC me login krye home ip pr 2 login kryr And Fresh id se 1 id 24hr me ek bar login hoga jisse apka booking fast and confirm hoga
+IRCTC ID 1 se jada bar used na huha ho 1 se jada bar irctc id login krege to usme kuch na kuch isu aeyga hi
 
-Booking se 1 ghanta pehle token zaroor generate karein Booking time par 40 par dobara token generate karein
 
-Internet Ka Upyog
+App Update done
 
-Jis network se aap token generate karte hain, ussi network ka upyog booking ke liye na karein Aur Fresh Id se hi token genrate kre aur hmesa token genrate krte time fresh irctc id used kre and ip bhi
+FRESH IP and IRCTC Fresh Id Hmesa token genrate me used kre nhi to nhi hoga 
 
-AC booking ke liye alag mobile/network ka upyog karein SL booking ke liye bhi alag mobile/network ka istemaal karein Aur IRCTC id agar ac me login huha he to sl me new id login chahiye us id se nhi bnega ye web and app dono ke liye he Isse aapki booking success rate kaafi badh jaayegi
-
-Testing Mode
-Filhaal testing allow ki gayi hai, isliye iska upyog zaroor karein
-
-Proxy Ka Upyog
-Proxy wala APK abhi sahi se chal raha hai aur ise Server 2 par shift kiya ja raha hai Aap ise subah download karke use kar sakte hain
-Aap resident proxy ya apna custom proxy, dono me se koi bhi use kar sakte hain Resident proxy behtar rahega kyunki isse aapka IP lagatar change hota rahta hai, aur performance improved hoti hai.
+Boooking KE liye bhi Fresh id jo 24 hr me 1 bar login hoga usse jada huha hoga to kam nhi krega usi id se booking lgaey
