@@ -1,10 +1,24 @@
-Agar aapka IP block issue ho raha hai to aapke paas ek option hai. Data settings mein jakar, Backup/IP Fail/IP Block Proxy Setting ko open karein Usmein fresh IP set karein
+Important Login Instructions
 
-Jab aapka IP block hoga to ye wahi fresh IP use karega jo aapne save kiya tha Isse aapka IP block hone ka chance 70% tak kam ho jayega
-Hamesha dhyan rakhein ki ek form ke liye limited number of tokens hi bhejein.
-Agar ek mobile me token bhejne ke options kam ho jaayen, to doosre mobile ka istemal kar sakte hain — lekin har device par sirf new aur valid ID ka hi use karein.
+Max 3 Logins per PC or RDP krye
+Ek PC par zyada login mat karein Agar aapko confirm ticket chahiye toh yeh steps follow karein
 
-Token bhejne ke baad agar app sahi se kaam na kare, to app ko restart ya reinstall karna help kar sakta hai.
-Mobile data ko off karke thodi der baad on karne se network refresh ho jaata hai aur system smooth chalne lagta hai.
+First Login App se login karein
 
-Agar aap in steps ko sahi tareeke se follow karenge, to aapke IP aur token related issues dheere-dheere kam hote jayenge.
+Second Login App2 se login karein
+
+Third Login Web login karein browser mein apka login open hoga
+
+Web login ke time apne mouse ko screen par move mat karein, bas login form ko bharne dena hai.
+
+Token Generation:
+
+Aapko 6 tokens generate karne hain 1 device se 
+
+2 Mobile Devices se token banayein aur unse 6 aur 6 tokens bhejein 2 device se and dono me alg IRCTC ID used ho
+
+Best Results ke liye
+2 mobile devices se tokens bhejein aur ek web login ka use karein Web Login jarur use karein, jisse aapka process aapke samne dikhega
+
+Web loginCapture Step ke Baad
+Capture wale step ke baad, apko koi bhi additional step nahi dikhega Sab kuch automatic process hoga aur aapka kaam successfully ho jayega
