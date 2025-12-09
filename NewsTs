@@ -1,20 +1,10 @@
-Naveenatam update pane aur ticket aasani se book karne ke liye kripya News section me diye gaye channel ko zaroor join karein Jaise hi aap channel join karenge aapko sabse pehle sabhi mahatvapurna jaankari mil jayegi jisse aapka form bina kisi pareshani ke poora ho sakega
+Agar aapka IP block issue ho raha hai to aapke paas ek option hai. Data settings mein jakar, Backup/IP Fail/IP Block Proxy Setting ko open karein Usmein fresh IP set karein
 
-Agar aap apni booking bina kisi pareshani ke karna chahte hain, to kuch baaton ka dhyan rakhna zaroori hai.
-Sabse pehle, ek hi PC par zyada login ya session na kholain. Agar aap ek PC par 1-2 se zyada login karenge, to system par extra load pad sakta hai aur isse IP block, login failed ya doosri problems aa sakti hain.
+Jab aapka IP block hoga to ye wahi fresh IP use karega jo aapne save kiya tha Isse aapka IP block hone ka chance 70% tak kam ho jayega
+Hamesha dhyan rakhein ki ek form ke liye limited number of tokens hi bhejein.
+Agar ek mobile me token bhejne ke options kam ho jaayen, to doosre mobile ka istemal kar sakte hain — lekin har device par sirf new aur valid ID ka hi use karein.
 
-Ab token system ka algorithm change ho gaya hai, isliye token banate waqt dhyan rakhein ki ek mobile app se ek baar mein bahut zyada token na banayein. Agar aap zyada token banayenge, to system aapko unusual user maan sakta hai aur problem aa sakti hai.
+Token bhejne ke baad agar app sahi se kaam na kare, to app ko restart ya reinstall karna help kar sakta hai.
+Mobile data ko off karke thodi der baad on karne se network refresh ho jaata hai aur system smooth chalne lagta hai.
 
-Agar aap ek form ko ek PC par open kar rahe hain, to us form ke liye sirf zaroori number of token rakhein. Bahut saare log ek hi app se ek baar mein 10-20 token bana rahe hain, jisse unhe dikkat ho sakti hai.
-
-Token banane ke baad, app ko uninstall karke dubara install karna ya alag-alag tariko se token banane ki koshish karna bhi system mein dikkat la sakta hai, isliye aisa na karein.
-
-Har PC par limited number of form aur login hi rakhein. Bahut sari windows kholne se IP block ho sakta hai.
-
-Kaam hamesha sahi sequence mein karein Sabse pehle software kholen Fir zaroori token lein Uske baad form load karein
-
-Aur aakhir mein login karein
-
-Hmesa Ip new used krye home ip bhi change krye mobile hotsport used krye jb used krye to mobile 1 miunt ke liye flight mode krye net on krye and laptob se connet krye tb used krye usse hmesa apka ip fresh rhega
-Ek saath bahut saare login karne se aapke successful hone ke chances kam ho sakte hain.
-Lekin agar aap vyavasthit tareeke se kaam karenge, limitations ka dhyan rakhenge aur sahi matra mein token aur login ka istemal karenge, to aapka kaam bina kisi rukawat ke asaani se ho jayega
+Agar aap in steps ko sahi tareeke se follow karenge, to aapke IP aur token related issues dheere-dheere kam hote jayenge.
