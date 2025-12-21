@@ -1,15 +1,13 @@
-Railone chalane ke liye niche diye gaye steps follow karein
+Important Instructions – Please Read Carefully
 
-Sabse pehle Data Option me jaakar Railone File Driver download karein Download complete hone ke baad apna System ya RDP restart karein
-Restart ke baad RailUPI me apna UPI ID add karke use karein
+Ab aap web login proxy ke through bhi used kar sakte ho Iske liye aapko Data section me jaakar Web2 driver install karna hoga Yeh file lagbhag 600 MB ki hai
+Install complete hone ke baad aapka web login proxy se work karne lagega
 
-Phir Railone me login karein
+Login karne ka proper method Pehle 2 window me Web Login karein 1 window me App Login ya Super Login karein 1 IP par maximum 2 Web Login + 1 App/Super Login allowed hai
 
-Login ke time aapse MPIN create karne ko kaha jayega MPIN create karte waqt aapke registered number par OTP aayega (yeh sirf one-time hota hai).
-OTP dalne ke baad aapka MPIN set ho jayega MPIN set hone ke baad aage se OTP ki zarurat nahi padegi direct MPIN se login hoga
+Ek hi IP par 2 se zyada login bilkul na karein warna aapka IP 1 din ke liye block ho sakta hai
+Har booking ke liye (Opening / AC / SL) Hamesha fresh IP aur fresh ID se hi login karein Purana IP ya repeat login avoid karein
 
-Ek PC par 2 Web Login use kar sakte hain 1 Railone Login 1 App Login
+Token generate karne ke liye Latest RailOne App ka use karein Ya phir IRCTC Connect App ka use kar sakte hain Abhi jo bhi app aap use kar rahe hain Pehle completely uninstall karein Uske baad latest version app install karke hi use karein
 
-Web2 ka update 1–2 din me proper tarike se kar diya jayega
-
-Agar koi issue aaye to please inform karein
+In sab instructions ko strictly follow karein taaki login issue IP block ya booking failure na ho
