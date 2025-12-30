@@ -1,15 +1,7 @@
 Important Instructions – Please Read Carefully
 
-24 Dec 2025 Railone Token Genrater used kre APP login ekdam proper kam krega
-go file link de rhe he jha se railone token genertor download kr ke install kr ke used kr sakte ge
-https://gofile.io/d/Rjv6ff
-
-RailOne token Generator Use Kre Token Generation K Liye Bug Fix Kr Diya Gya He Ab proper Work Krega railone se app login
+Web Login karein to cursor ko chhod dijiye wo apne hisaab se automatically login karega
+Login hone ke baad IRCTC ka page open rahega, usko close mat kariye wo automatic close ho jayega
 
 
-Login karne ka proper method Pehle 1 window me Web Login karein 1 window me App Login ya Super Login karein 1 IP par maximum 2 Web Login + 1 App/Super Login allowed hai
-
-Ek hi IP par 2 se zyada login bilkul na karein warna aapka IP 1 din ke liye block ho sakta hai
-Har booking ke liye (Opening / AC / SL) Hamesha fresh IP aur fresh ID se hi login karein Purana IP ya repeat login avoid karein
-
-In sab instructions ko strictly follow karein taaki login issue IP block ya booking failure na ho
+Aap Server 1 aur Server 2 se Token Generator download karke App Login karne se pehle token bhej kar use kariye
