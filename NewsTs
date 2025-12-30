@@ -1,7 +1,11 @@
-Important Instructions – Please Read Carefully
-
-Web Login karein to cursor ko chhod dijiye wo apne hisaab se automatically login karega
-Login hone ke baad IRCTC ka page open rahega, usko close mat kariye wo automatic close ho jayega
+Important Instructions Please Read Carefully
 
 
+Web login ka update complete ho chuka hai
+App login ka update bhi successfully done hai
+Web login sirf 1–2 slots par hi kaam karega, dhyaan rakhein
+Web login ke baad mouse ka cursor bilkul touch na karein mouse chhod dena hai
+App login ke liye IRCTC Token Generator ka hi use karein
+
+Baaki jitne bhi chhote bugs rah jaayenge kal ke update mein fix kar diye jaayenge
 Aap Server 1 aur Server 2 se Token Generator download karke App Login karne se pehle token bhej kar use kariye
